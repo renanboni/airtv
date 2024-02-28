@@ -6,11 +6,11 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
-    sourceSets {
+/*    sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
         }
-    }
+    }*/
 
     defaultConfig {
         applicationId "sling.com.freecast"
