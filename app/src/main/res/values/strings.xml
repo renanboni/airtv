@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FreeCastDemo</string>
+    <string name="finderid">FinderID</string>
+    <string name="password">Password</string>
+    <string name="receiverid">ReceiverId</string>
+    <string name="channelnumber">Channel Number</string>
+    <string name="startsession">Start Session</string>
+    <string name="stopsession">Stop Session</string>
+    <string name="startvideo">Start Video</string>
+    <string name="stopvideo">Stop Video</string>
+    <string name="request_result">Request Status: </string>
+    <string name="session_status">Session Event: </string>
+    <string name="video_status">Video Event: </string>
+</resources>
