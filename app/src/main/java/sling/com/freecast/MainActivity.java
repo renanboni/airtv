@@ -30,6 +30,10 @@ import androidx.core.content.ContextCompat;
 
 import java.util.ArrayList;
 
+/**
+ *    "CB6455C3E2CDB828547A85B84DE1678F"
+ *    "E1:E27D0D7BDC52497877D16DBD2F1EFF692D620E56BC192FB087171BFD8846E73A"
+ */
 public class MainActivity extends AppCompatActivity implements
         SlingCallback.SlingClientCallback, SlingCallback.SessionCallback, SlingCallback.SessionVideoCallback,
         View.OnClickListener {
