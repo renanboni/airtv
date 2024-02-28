@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity implements
     private static final String TAG = "MainActivity";
 
     private static final String PREF_NAME = "FreeCast_Test";
-    private static final String FINDER_ID_PREF_KEY = "CB6455C3E2CDB828547A85B84DE1678F";
-    private static final String PASSWORD_PREF_KEY = "E1:E27D0D7BDC52497877D16DBD2F1EFF692D620E56BC192FB087171BFD8846E73A";
+    private static final String FINDER_ID_PREF_KEY = "finder-id";
+    private static final String PASSWORD_PREF_KEY = "password";
     private static final String RECEIVER_ID_PREF_KEY = "receiver-id";
     private static final String CHANNEL_NUMBER_PREF_KEY = "channel-number";
 
